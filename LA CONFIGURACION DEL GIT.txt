@@ -1,0 +1,24 @@
+LA CONFIGURACION DEL GIT
+
+git config --global
+user.name "Tu nombre"
+
+git config --global
+user.email "tucorreo@email.com"
+
+VERIFICACION DE QUE TU CORREO ESTA ENLAZADO A TU GIT
+
+git config --list
+
+CLONACION DEL ARCHIVO
+
+*Primero entrar al desktop: 
+cd desktop
+
+*Copiar y pegar el siguiente archive:
+git clone https://github.com/AndreaGallegos/miTercerRepositorio.git
+
+AGREGAR ARCHIVOS
+
+git add .
+
